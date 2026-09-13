@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import instaLogo from '../assets/images/instagram-Logo.wine.svg';
+import instaLogo from '../assets/images/Instagram-Logo.wine.svg';
 import gallery1 from '../assets/images/gallery/Gallery1.jpg';
 import gallery2 from '../assets/images/gallery/Gallery2.jpg';
 import gallery3 from '../assets/images/gallery/Gallery3.jpg';
